@@ -792,3 +792,7 @@ the \"Gen RGB\" column in solarized-definitions.el to improve them further."
      (provide-theme ',name)))
 
 (provide 'solarized-definitions)
+
+;; Local Variables:
+;; no-byte-compile: t
+;; End:
